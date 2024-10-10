@@ -8,7 +8,7 @@ permalink: /SaltedBrownButterChocolateChipCookies/
 
 ![Beautiful Stack of Cookies](../assets/Recipes/CookieStack.jpg)
 
-*Before I get into anything, this recipe is originally from Joshua Weissman. I've made a couple edits to his original recipe that I believe improve it a lot, but I highly recommend checking out his video/ tutorial on this recipe [over on YouTube](https://www.youtube.com/watch?v=wyuec0PPz68).*
+*Before I get into anything, this recipe is originally from Joshua Weissman. I've made a couple edits to his original recipe that I believe improve it a lot, but I highly recommend checking out his video on YouTube titled [The Ideal Chocolate Chip Cookie + A Cookie Hack](https://www.youtube.com/watch?v=wyuec0PPz68).*
 
 *I would also like to add that all of my measurements for this recipe are weight based. I typically prefer to use weight because it's easier for me and is just more accurate. If there's demand I can always add in cups.*
 
