@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Welcome to Bova's Bytes! This is just a fun little personal project for me to upload what I've been cooking, as well as what I've been eating! My goal is to share some of my favorite recipes, cooking methods, favorite meals, favorite resturants, and whatever else I can think of to document. Thank you for visiting my food blog, and I hope you enjoy whaever you end up reading or looking through!
